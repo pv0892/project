@@ -5,7 +5,7 @@
 <body>
 <div id="login">
 <form>
-<h2>sign in</h2>
+<h2>login</h2>
 <input type="text" id="username" placeholder="Enter Username" />
 <input type="password" id="password" placeholder="Enter password"/>
 </form>
